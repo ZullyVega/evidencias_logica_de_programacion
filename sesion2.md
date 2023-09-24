@@ -45,7 +45,6 @@ public class HipotenusaTriangulo {
 }
 ```
 
-
 1. Programa para determinar si un número es par o impar:
 
 ```
@@ -69,6 +68,7 @@ public class ParImpar {
     }
 }
 ```
+
 1. Programa para calcular el tercer ángulo de un triángulo:
 
 ```
