@@ -30,19 +30,19 @@ Para lograrlo, los estudiantes deben usar la lógica y determinar qué interrupt
 
 ## Actividad de consulta
 
-1. ¿Qué es la lógica de programación? 
+1.¿Qué es la lógica de programación? 
 
 La lógica de programación consiste en la organización y planificación coherente de las instrucciones necesarias para ejecutar con éxito un programa.
 Es una disciplina que se encarga de desarrollar algoritmos y soluciones a problemas utilizando un lenguaje de programación. 
 
-1. ¿Cuáles son los elementos básicos de la lógica de programación?
+2.¿Cuáles son los elementos básicos de la lógica de programación?
 -	Algoritmo: Son la secuencia de pasos lógicos que resuelven un problema. 
 -	Variable: Es una unidad de almacenamiento y recuperación de datos, datos que utilizarás más adelante al programar. También se pueden definir como espacios reservados en la memoria RAM para almacenar datos. Se reservan dándoles un nombre y un valor a través del signo =. 
 -	Función: Es un bloque de código reutilizable que realiza tareas específicas. Se le llama a través del comando function. Cada vez que llamemos a esa función se ejecutará ese código, por lo que se ahorra tiempo en escribir línea por línea.
 -	Tipos de datos: Son los diferentes tipos de variables en las que se clasifica la información. Por ejemplo, los más utilizados son Number, String, y Boolean.
 -	Estructuras de Control: El código se lee de arriba hacia abajo. Pero estas estructuras permiten que el código se lea de diferentes maneras. Son el caso de los ciclos y las condicionales
 
-1. ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
+3.¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
 
 Un lenguaje de Marcado da la estructura del documento, pero no tiene funcionalidades y el lenguaje de programación permite crear interactividad a través de las funciones, pero no permite crear la estructura del documento.
 
