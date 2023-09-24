@@ -30,27 +30,27 @@ Para lograrlo, los estudiantes deben usar la lógica y determinar qué interrupt
 
 ## Actividad de consulta
 
-1.	¿Qué es la lógica de programación? 
+1.¿Qué es la lógica de programación? 
 
 La lógica de programación consiste en la organización y planificación coherente de las instrucciones necesarias para ejecutar con éxito un programa.
 Es una disciplina que se encarga de desarrollar algoritmos y soluciones a problemas utilizando un lenguaje de programación. 
 
-2.	¿Cuáles son los elementos básicos de la lógica de programación?
+2.¿Cuáles son los elementos básicos de la lógica de programación?
 -	Algoritmo: Son la secuencia de pasos lógicos que resuelven un problema. 
 -	Variable: Es una unidad de almacenamiento y recuperación de datos, datos que utilizarás más adelante al programar. También se pueden definir como espacios reservados en la memoria RAM para almacenar datos. Se reservan dándoles un nombre y un valor a través del signo =. 
 -	Función: Es un bloque de código reutilizable que realiza tareas específicas. Se le llama a través del comando function. Cada vez que llamemos a esa función se ejecutará ese código, por lo que se ahorra tiempo en escribir línea por línea.
 -	Tipos de datos: Son los diferentes tipos de variables en las que se clasifica la información. Por ejemplo, los más utilizados son Number, String, y Boolean.
 -	Estructuras de Control: El código se lee de arriba hacia abajo. Pero estas estructuras permiten que el código se lea de diferentes maneras. Son el caso de los ciclos y las condicionales
 
-3.	¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
+3.¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
 
 Un lenguaje de Marcado da la estructura del documento, pero no tiene funcionalidades y el lenguaje de programación permite crear interactividad a través de las funciones, pero no permite crear la estructura del documento.
 
-4.	¿Qué es un algoritmo y para qué se utiliza en la programación?
+4.¿Qué es un algoritmo y para qué se utiliza en la programación?
 
 Los Algoritmos son una serie de pasos realizados y representados de una manera lógicamente secuencial para solucionar un problema. ¡son la base de la programación! 
 
-5.	¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?
+5.¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?
 
 El desarrollo web se puede realizar a través de diferentes lenguajes de programación que permiten crear una página o diseñar una aplicación web. Definir cuál es el mejor lenguaje de programación web es complicado porque depende de diferentes factores.  Sin embargo, hay que considerar las siguientes opciones: 
 -	Java: lenguaje multiuso que se ajusta eficazmente al desarrollo web. 
@@ -59,7 +59,7 @@ El desarrollo web se puede realizar a través de diferentes lenguajes de program
 -	Python: funciona en una gran variedad de contextos y es especialmente adecuado para la web gracias a sus ventajas técnicas. 
 -	JavaScript: está del lado del cliente y se puede extender al servidor para diferentes funciones.
 
-6.	¿Cómo se utiliza la lógica booleana en la programación?
+6.¿Cómo se utiliza la lógica booleana en la programación?
 
 Los operadores booleanos se utilizan para conectar conceptos entre sí, con el fin de comprobar su veracidad dentro de un enunciado.
 Estos son algunos de los operadores lógicos más comunes en distintos lenguajes de programación:
@@ -70,7 +70,7 @@ OR: Asocia dos términos o frases, validando que al menos uno de los dos valores
 
 NOT: Ejecuta bloques de código cuando una condición es falsa.
 
-7.	¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?
+7.¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?
 
 Las estructuras de control son el conjunto de reglas que permiten controlar el flujo de ejecución de las instrucciones de un algoritmo o de un programa.
 Las estructuras de control nos dan el poder de alterar, controlar o modificar el orden o el flujo en el que se ejecutan las instrucciones de un software a voluntad. Gracias a las estructuras de control podemos abstraer algoritmos o secuencias de instrucciones en un software para lograr su objetivo. 
@@ -79,7 +79,7 @@ Las mismas pueden clasificarse en secuenciales, condicionales e iterativas.
 -	Condicionales: Este tipo de estructuras de control nos sirven cuando necesitamos que se evalúe el valor de alguna variable o de alguna condición para decidir qué instrucciones ejecutar a continuación.
 -	Iterativas: Este tipo de estructuras de control nos sirven cuando necesitamos que se ejecute un conjunto específico de instrucciones en diversas ocasiones. La cantidad de veces que se repite dicho bloque de acciones puede ser estático o puede depender del valor de alguna variable o de alguna condición.
 
-8.	¿Qué es una variable y para qué se utiliza en la programación?
+8.¿Qué es una variable y para qué se utiliza en la programación?
 
 Una variable es donde se almacenan y se recuperan los datos de un programa. En programación, la utilizamos para guardar datos y estados, asignar ciertos valores de variables a otras, representar valores de expresiones matemáticas y mostrar valores por pantallas.  
 Las variables se expresan así: 
@@ -88,12 +88,12 @@ Las variables se expresan así:
 -	Como un dato abstracto 
 -	Como un objeto
 
-9.	¿Cómo se utilizan las funciones en la programación?
+9.¿Cómo se utilizan las funciones en la programación?
 
 Las funciones permiten crear programas o scripts mejor estructurados y más claros, evitando repeticiones innecesarias y facilitando su mantenimiento.
 Las funciones ’empaquetan’ y aislan del resto del programa una serie de variables e instrucciones de código que realizan alguna tarea específica. Solo se ejecutan si son llamadas desde el código principal y tras procesar sus instrucciones, devuelven un resultado a esa parte del código principal que la invocó.
 
-10.	¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
+10.¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
 
 La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos.
 La Programación Orientada a objetos permite que el código sea reutilizable, organizado y fácil de mantener. Sigue el principio de desarrollo de software utilizado por muchos programadores DRY (Don’t Repeat Yourself), para evitar duplicar el código y crear de esta manera programas eficientes. Además, evita el acceso no deseado a los datos o la exposición de código propietario mediante la encapsulación y la abstracción
