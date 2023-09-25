@@ -12,6 +12,7 @@ Resolver los siguientes ejercicios:
 ### Ejercicios - while
 - Pedir al usuario que ingrese un número y mostrar su tabla de multiplicar hasta el número 10.
 ```
+
 import java.util.Scanner;
 
 public class Act5 {
@@ -33,6 +34,7 @@ public class Act5 {
 
 - Pedir al usuario que ingrese una cadena de caracteres y contar la cantidad de caracteres que son números.
 ```
+
 import java.util.Scanner;
 
 public class Act5 {
@@ -62,6 +64,7 @@ public class Act5 {
 ### Ejercicios - do while
 - Escribe un programa en Java que imprima los números del 1 al 100, pero que se detenga si el usuario introduce un número negativo.
 ```
+
 import java.util.Scanner;
 
 public class Act5 {
@@ -87,6 +90,7 @@ public class Act5 {
 
 - Escribe un programa en Java que pida al usuario un número entero e imprima la tabla de multiplicar de ese número, pero que se detenga si el usuario introduce el número 0.
 ```
+
 import java.util.Scanner;
 
 public class Act5 {
@@ -113,6 +117,7 @@ public class Act5 {
 ### Ejercicios - for
 - Imprimir los números impares del 1 al 50.
 ```
+
 public class Act5 {
 
     public static void main(String[] args) {
@@ -126,6 +131,7 @@ public class Act5 {
 
 - Imprimir los números primos del 1 al 100.
 ```
+
 public class Act5 {
 
     public static void main(String[] args) {
