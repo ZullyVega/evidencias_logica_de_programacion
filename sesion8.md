@@ -36,7 +36,7 @@ public class Ejercicio {
 
 public class Ejercicio {
     public static void main(String[] args) {
-        String texto = "zapato casa lugar frutas?";
+        String texto = "zapato casa lugar frutas";
         int cantidadVocales = contarVocales(texto);
         System.out.println("El número de vocales en el texto es: " + cantidadVocales);
     }
@@ -93,7 +93,7 @@ public class Ejercicio {
         String texto = "zapato casa lugar frutas";
 
         int cantidadPalabras = contarPalabras(texto);
-        System.out.println("El número de palabras en el texto es: " + cantidadPalabras);
+        System.out.println("El número de palabras en el texto son: " + cantidadPalabras);
     }
 
     public static int contarPalabras(String texto) {
