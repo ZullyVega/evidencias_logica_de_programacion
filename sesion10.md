@@ -50,11 +50,17 @@ public class CantidadLadrillos {
 }
 ```
 Primero utilizamos la clase Scanner para leer la entrada del usuario desde la consola.
+
 Se ingresa el tipo de dato, en este caso un double con los datos que se necesitan para calcular la cantidad de materiales para la construcción de una pared de ladrillos.
+
 Se solicita al usuario que ingrese el largo, alto y ancho de la pared, y el largo, alto y ancho del ladrillo.
-Luego se calcula el área de la pared y del ladrillo a través de la formula largo * alto
+
+Luego se calcula el área de la pared y del ladrillo a través de la formula largo * alto.
+
 Luego se necesita calcular la cantidad de ladrillos necesarios, esto se realiza dividiendo el área de la pared entre el área del ladrillo y el ancho de la pared dividido por el ancho del ladrillo. Con la función Math.ceil redondeamos dicho resultado.
+
 Para ver el resultado se utiliza el System.out.printf para dar formato a los datos que se imprimen.
+
 El % indica que en esa posición se va a escribir el valor, el .0 indica el número de decimales que queremos observar y la f indica que el número es de tipo float o double. 
 
 ### 2. Calcular el movimiento rectilíneo uniforme
@@ -83,8 +89,13 @@ public class MRU {
 }
 ```
 Primero utilizamos la clase Scanner para leer la entrada del usuario desde la consola.
+
 Se ingresa el tipo de dato, en este caso un double con los datos que se necesitan para calcular el movimiento rectilíneo uniforme.
+
 Se solicita al usuario que ingrese la velocidad y el tiempo.
+
 Luego se calcula la distancia a través de una multiplicación velocidad * tiempo.
+
 Para ver el resultado se utiliza el System.out.printf para dar formato a los datos que se imprimen.
+
 El % indica que en esa posición se va a escribir el valor, el .2 indica el número de decimales que queremos observar y la f indica que el número es de tipo float o double. 
